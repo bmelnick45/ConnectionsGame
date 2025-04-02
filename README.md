@@ -2,6 +2,4 @@
 # ConnectionsGame
 Connections game made for CS2510 class
 =======
-# TypingGame
-ZType Typing Game made for CS2510 Class
->>>>>>> bd006f8 (Initial commit)
+This code was done in the Eclipse IDE and uses two external classpath JARS, javalib.jar and tester.jar
